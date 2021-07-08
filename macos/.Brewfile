@@ -84,7 +84,6 @@ cask "openemu"
 cask "philips-hue-sync"
 cask "qlcolorcode"
 cask "qlstephen"
-cask "spotify"
 cask "transmission"
 mas "Cascadea", id: 1432182561
 mas "Microsoft Excel", id: 462058435
